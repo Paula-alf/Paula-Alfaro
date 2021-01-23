@@ -20,9 +20,9 @@
 ### Grabaciones de discos.
 ---
 
-- [Disco homonimo JuanaRosa, Banda JuanaRosa, 2016.](https://open.spotify.com/album/1VhniXD6lELfiDeZhNWL8b?si=VX0VqfjtRTicp5l5BWs0xQ)
+- [Disco homónimo JuanaRosa, Banda JuanaRosa, 2016.](https://open.spotify.com/album/1VhniXD6lELfiDeZhNWL8b?si=VX0VqfjtRTicp5l5BWs0xQ)
 
-- [Reseña de disco Juana Rosa por Winston Moya Cortés, 2016.](https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-27902017000100163)
+- [Reseña de disco JuanaRosa por Winston Moya Cortés, 2016.](https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-27902017000100163)
 
 ---
 ### Videos y presentaciones de los últimos trabajos
