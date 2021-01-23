@@ -12,23 +12,20 @@
 
 **Obs**: The proceedings has been published on the XI	Encontro	Regional	Sudeste	da	Associação	Brasileira	de	Educação	Musical, São	Carlos, São Paulo, Brazil, 18 - 20 October 2018 [here!](http://abemeducacaomusical.com.br/conferencias/index.php/sd2018/regsd/paper/viewFile/3230/1774)
 
+
 ---
-### Tesis.
+### Tesis de Magister.
 ---
 
 [ALFARO BARRALES, Paula Fernanda. Proposta de jogo musical digital associado ao desenvolvimento criativo para crianças estudantes de piano: Digital music game proposal associated with the creative development for young piano learners. 2020. 1 recurso online (80 p.) Dissertação (mestrado) - Universidade Estadual de Campinas, Instituto de Artes, Campinas, SP](http://repositorio.unicamp.br/jspui/handle/REPOSIP/344240)
 
 ---
-### Códigos en Julia y Python de Redes Hipercomplejas y sus Aplicaciones.
+### Grabaciones de discos.
 ---
 
-- [Ensemble basado en Redes Neuronales por Correlación Recurrentes](https://github.com/fitolobo/RCAM-Ensemble-Classifier)
+- [Disco homonimo JuanaRosa, Banda JuanaRosa, 2016.](https://open.spotify.com/album/1VhniXD6lELfiDeZhNWL8b?si=VX0VqfjtRTicp5l5BWs0xQ)
 
-- [Redes Neuronales Recurrentes Hipercomplejas](https://github.com/fitolobo/Hypercomplex-Valued-Recurrent-Correlation-Neural-Networks)
-
-- [Red Neuronal Recurrente Cuaternionica por Proyección en Cuaternios Unitarios](https://github.com/fitolobo/Quaternion-valued-Recurrent-Projection-Neural-Networks)
-
-- [Learning Rules to Hopfield Type Associative Memories](https://github.com/fitolobo/Learning-Rules-to-Hopfield-Type-Associative-Memories)
+- [Reseña de disco Juana Rosa por Winston Moya Cortés, 2016.](https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-27902017000100163)
 
 ---
 ### Videos y presentaciones de los últimos trabajos
