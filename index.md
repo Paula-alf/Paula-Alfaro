@@ -33,7 +33,7 @@
 
 - [Primer lugar IX Concurso de Composición Musical Luis Advis, categoría Música Popular, 2013.](https://luisadvis.cultura.gob.cl/ganadores)
 
-- [Beca Programa de Estudiantes Convenio de Post graduación (PEC-PG) del Consejo Nacional de Desarrollo Científico y Tecnológico (CNPq) para estudios de magister, Brasil, 2018-2020.]
+- Beca Programa de Estudiantes Convenio de Post graduación (PEC-PG) del Consejo Nacional de Desarrollo Científico y Tecnológico (CNPq) para estudios de magister, Brasil, 2018-2020.
 
 ---
 ### Videos y presentaciones de los últimos trabajos
