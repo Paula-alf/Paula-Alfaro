@@ -1,12 +1,16 @@
 ### Publicaciones
 ---
-- [Alfaro, P., Mendes, A. (2018). Utilização de jogos e TIC na educação musical e suas influências na criatividade.](https://www.researchgate.net/publication/343774857_Utilizacao_de_jogos_e_TIC_na_educacao_musical_e_suas_influencias_na_criatividade)
+- [Alfaro, P., Natucci, G., Mendes, A. (2020). New perspectives in didactic music games: Using synesthetic resources in an educational music minigame.](https://www.researchgate.net/publication/344259985_New_perspectives_in_didactic_music_games_Using_synesthetic_resources_in_an_educational_music_minigame)
+
+**Obs**: The proceedings has been published on the International Society for Music Education 34th World Conference on Music Education: Online*, 3rd -7th August 2020 [here!](https://www.isme.org/sites/default/files/documents/Proceedings%20final%202020%20ISME%20WORLD%20CONFERENCE.pdf)
 
 - [Alfaro, P., Mendes, A. (2020). Utilización de Pure Data y Musescore como herramientas para la educación musical y desenvolvimiento creativo.](https://www.researchgate.net/publication/343774702_Utilizacion_de_Pure_Data_y_Musescore_como_herramientas_para_la_educacion_musical_y_desenvolvimiento_creativo)
 
-- [Alfaro, P., Natucci, G., Mendes, A. (2020). New perspectives in didactic music games: Using synesthetic resources in an educational music minigame.](https://www.researchgate.net/publication/344324769_Ensemble_of_Binary_Classifiers_Combined_Using_Recurrent_Correlation_Associative_Memories)
+**Obs**: The proceedings has been published on the XIII Encontro de Educação Musical da Unicamp, EEMU 2020, Online, 8 - 12 June 2020 [here!](https://sites.google.com/dac.unicamp.br/eemu/anais/2020?authuser=0)
 
-**Obs**: The proceedings has been published on the 9th Brazilian Conference, BRACIS 2020, Rio Grande, Brazil, October 20–23, 2020, Proceedings, Part II [here!](https://link.springer.com/chapter/10.1007/978-3-030-61380-8_30)
+- [Alfaro, P., Mendes, A. (2018). Utilização de jogos e TIC na educação musical e suas influências na criatividade.](https://www.researchgate.net/publication/343774857_Utilizacao_de_jogos_e_TIC_na_educacao_musical_e_suas_influencias_na_criatividade)
+
+**Obs**: The proceedings has been published on the XI	Encontro	Regional	Sudeste	da	Associação	Brasileira	de	Educação	Musical: Educação	Musical	em	tempos	de	crise:	percepções,	impactos	e	enfrentamentos, 2018, São	Carlos, São Paulo, Brazil, 18	-	20	October	2020 [here!](http://abemeducacaomusical.com.br/conferencias/index.php/sd2018/regsd/paper/viewFile/3230/1774)
 
 - [Lobo, R. A., Palma, J. M., Morais, C. F., Carvalho, L. D. P., Valle, M. E., & Oliveira, C. R. (2019, November). A Brief Tutorial on Quadratic Stability of Linear Parameter-Varying Model for Biomathematical Systems. In 2019 IEEE CHILEAN Conference on Electrical, Electronics Engineering, Information and Communication Technologies (CHILECON) (pp. 1-6). IEEE.](https://www.researchgate.net/publication/339173760_A_Brief_Tutorial_on_Quadratic_Stability_of_Linear_Parameter-Varying_Model_for_Biomathematical_Systems)
 
