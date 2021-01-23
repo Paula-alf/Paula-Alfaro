@@ -1,10 +1,12 @@
 title: Paula Alfaro B. # your name (or website title) here
 logo: "/images/Foto_Paula.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
+
   Master's degree in Music at University of Campinas, Brazil.<br><br>
   I'm interested in music creativity, information and communication technology, piano teaching. <br><br>
   <a href="https://www.researchgate.net/profile/Paula_Alfaro4">View My ResearchGate Profile</a><br>
   <a href="https://github.com/Paula-alf"> My GitHub</a><br>
   Contacto: pabarrales@ug.uchile.cl
+  
 theme: jekyll-theme-minimal
 
