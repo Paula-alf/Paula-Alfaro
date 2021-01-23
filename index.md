@@ -1,6 +1,6 @@
 ### Publicaciones
 ---
-- [Valle, M. E., & Lobo, R. A. (2020). Quaternion-Valued Recurrent Projection Neural Networks on Unit Quaternions.](https://www.sciencedirect.com/science/article/abs/pii/S0304397520304989)
+- [Alfaro, P., Mendes, A. (2018). Utilização de jogos e TIC na educação musical e suas influências na criatividade.](https://www.researchgate.net/publication/343774857_Utilizacao_de_jogos_e_TIC_na_educacao_musical_e_suas_influencias_na_criatividade)
 
 - [Valle, M. E., & Lobo, R. A. (2020). Hypercomplex-Valued Recurrent Correlation Neural Networks](https://www.sciencedirect.com/science/article/abs/pii/S0925231220319342)
 
