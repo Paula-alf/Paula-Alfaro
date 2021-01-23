@@ -12,13 +12,11 @@
 
 **Obs**: The proceedings has been published on the XI	Encontro	Regional	Sudeste	da	Associação	Brasileira	de	Educação	Musical, São	Carlos, São Paulo, Brazil, 18 - 20 October 2018 [here!](http://abemeducacaomusical.com.br/conferencias/index.php/sd2018/regsd/paper/viewFile/3230/1774)
 
-- [Lobo, R. A., Palma, J. M., Morais, C. F., Carvalho, L. D. P., Valle, M. E., & Oliveira, C. R. (2019, November). A Brief Tutorial on Quadratic Stability of Linear Parameter-Varying Model for Biomathematical Systems. In 2019 IEEE CHILEAN Conference on Electrical, Electronics Engineering, Information and Communication Technologies (CHILECON) (pp. 1-6). IEEE.](https://www.researchgate.net/publication/339173760_A_Brief_Tutorial_on_Quadratic_Stability_of_Linear_Parameter-Varying_Model_for_Biomathematical_Systems)
+---
+### Tesis.
+---
 
-- [Barros, L. C., Sanchez, D., Lobo, R., & Esmi, E. (2019, August). Free Mechanical Vibrations Models via p-fuzzy Systems. In 2019 Conference of the International Fuzzy Systems Association and the European Society for Fuzzy Logic and Technology (EUSFLAT 2019). Atlantis Press.](https://www.researchgate.net/publication/335809207_Free_Mechanical_Vibrations_Models_via_p-fuzzy_Systems)
-
-- [Sánchez, D. E., Palma, J. M., Lobo, R. A., Meyer, J. F., Morais, C. F., Rojas-Palma, A., & Oliveira, R. C. (2019, November). Modeling and Stability Analysis of Salmon Mortality due to Microalgae Bloom using Linear Parameter-Varying Structure. In 2019 IEEE CHILEAN Conference on Electrical, Electronics Engineering, Information and Communication Technologies (CHILECON) (pp. 1-6). IEEE.](https://www.researchgate.net/publication/335809207_Free_Mechanical_Vibrations_Models_via_p-fuzzy_Systems)
-
-- [Morillo, C. C. E., Carrasco, R. A. L., & da Costa Meyer, J. F. (2018). Dinâmica de HIV e posterior AIDS. Proceeding Series of the Brazilian Society of Computational and Applied Mathematics, 6(2).](https://www.researchgate.net/publication/329788475_Dinamica_de_HIV_e_posterior_AIDS)
+[ALFARO BARRALES, Paula Fernanda. Proposta de jogo musical digital associado ao desenvolvimento criativo para crianças estudantes de piano: Digital music game proposal associated with the creative development for young piano learners. 2020. 1 recurso online (80 p.) Dissertação (mestrado) - Universidade Estadual de Campinas, Instituto de Artes, Campinas, SP](http://repositorio.unicamp.br/jspui/handle/REPOSIP/344240)
 
 ---
 ### Códigos en Julia y Python de Redes Hipercomplejas y sus Aplicaciones.
