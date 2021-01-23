@@ -2,9 +2,9 @@
 ---
 - [Alfaro, P., Mendes, A. (2018). Utilização de jogos e TIC na educação musical e suas influências na criatividade.](https://www.researchgate.net/publication/343774857_Utilizacao_de_jogos_e_TIC_na_educacao_musical_e_suas_influencias_na_criatividade)
 
-- [Valle, M. E., & Lobo, R. A. (2020). Hypercomplex-Valued Recurrent Correlation Neural Networks](https://www.sciencedirect.com/science/article/abs/pii/S0925231220319342)
+- [Alfaro, P., Mendes, A. (2020). Utilización de Pure Data y Musescore como herramientas para la educación musical y desenvolvimiento creativo.](https://www.researchgate.net/publication/343774702_Utilizacion_de_Pure_Data_y_Musescore_como_herramientas_para_la_educacion_musical_y_desenvolvimiento_creativo)
 
-- [Lobo, R. A., & Valle, M. E. (2020). Ensemble of Binary Classifiers Combined Using Recurrent Correlation Associative Memories. arXiv preprint arXiv:2009.08578.](https://www.researchgate.net/publication/344324769_Ensemble_of_Binary_Classifiers_Combined_Using_Recurrent_Correlation_Associative_Memories)
+- [Alfaro, P., Natucci, G., Mendes, A. (2020). New perspectives in didactic music games: Using synesthetic resources in an educational music minigame.](https://www.researchgate.net/publication/344324769_Ensemble_of_Binary_Classifiers_Combined_Using_Recurrent_Correlation_Associative_Memories)
 
 **Obs**: The proceedings has been published on the 9th Brazilian Conference, BRACIS 2020, Rio Grande, Brazil, October 20–23, 2020, Proceedings, Part II [here!](https://link.springer.com/chapter/10.1007/978-3-030-61380-8_30)
 
