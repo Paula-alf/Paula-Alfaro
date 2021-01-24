@@ -1,4 +1,4 @@
-### Publicaciones
+### Research publications.
 ---
 - [Alfaro, P., Natucci, G., Mendes, A. (2020). New perspectives in didactic music games: Using synesthetic resources in an educational music minigame.](https://www.researchgate.net/publication/344259985_New_perspectives_in_didactic_music_games_Using_synesthetic_resources_in_an_educational_music_minigame)
 
@@ -14,29 +14,29 @@
 
 
 ---
-### Tesis de Magister.
+### Master's degree thesis.
 ---
 
 [ALFARO BARRALES, Paula Fernanda. Proposta de jogo musical digital associado ao desenvolvimento criativo para crianças estudantes de piano: Digital music game proposal associated with the creative development for young piano learners. 2020. 1 recurso online (80 p.) Dissertação (mestrado) - Universidade Estadual de Campinas, Instituto de Artes, Campinas, SP](http://repositorio.unicamp.br/jspui/handle/REPOSIP/344240)
 
 ---
-### Grabaciones de discos.
+### Album recording.
 ---
 
-- [Disco homónimo JuanaRosa, banda JuanaRosa, 2016.](https://open.spotify.com/album/1VhniXD6lELfiDeZhNWL8b?si=VX0VqfjtRTicp5l5BWs0xQ)
+- [Self-titled album JuanaRosa, 2016.](https://open.spotify.com/album/1VhniXD6lELfiDeZhNWL8b?si=VX0VqfjtRTicp5l5BWs0xQ)
 
-- [Reseña de disco JuanaRosa por Winston Moya Cortés, 2016.](https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-27902017000100163)
+- [JuanaRosa's album review by Winston Moya Cortés, 2016.](https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-27902017000100163)
 
 ---
-### Premios y becas.
+### Awards and scholarships.
 ---
 
 - [Primer lugar IX Concurso de Composición Musical Luis Advis, categoría Música Popular, 2013.](https://luisadvis.cultura.gob.cl/ganadores)
 
-- Beca Programa de Estudiantes Convenio de Post graduación (PEC-PG) del Consejo Nacional de Desarrollo Científico y Tecnológico (CNPq) para estudios de magister, Brasil, 2018-2020.
+- Postgraduate Student Agreement Program scholarship (PEC–PG) of the National Council for Scientific and Technological Development (CNPq) for master's degree studies, Brazil, 2018 - 2020.
 
 ---
-### Presentaciones musicales
+### Music performances.
 ---
 
 - [Hypercomplex-Valued Recurrent Neural Networks and their Dynamics](https://www.ime.unicamp.br/~encpos/?p=submissoes) 
