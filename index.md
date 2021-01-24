@@ -36,7 +36,7 @@
 - Beca Programa de Estudiantes Convenio de Post graduación (PEC-PG) del Consejo Nacional de Desarrollo Científico y Tecnológico (CNPq) para estudios de magister, Brasil, 2018-2020.
 
 ---
-### Videos y presentaciones de los últimos trabajos
+### Presentaciones musicales
 ---
 
 - [Hypercomplex-Valued Recurrent Neural Networks and their Dynamics](https://www.ime.unicamp.br/~encpos/?p=submissoes) 
