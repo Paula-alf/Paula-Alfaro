@@ -43,12 +43,7 @@
 
 - [Video clip - Eco - JuanaRosa, 18 January 2016.](https://www.youtube.com/watch?v=Bvq0-om3bqg)
 
-- [Ensamble of Binary Classifiers Using Recurrent Correlation Associative Memories](https://www.youtube.com/watch?v=UUG2lNxfjpI&t=2s) BRACIS 2020.
-
-- [Quaternionic Recurrent Projection Neural Networks](/pdf/BRACIS_19_Presentacion.pdf) BRACIS 2019.
-
-- [A Brief Tutorial on Quadratic Stability of Linear Parameter-Varying Model for Biomathematical Systems](/pdf/SLIDE_206_jmp.pdf) ChileCon 2019.
-**Obs**: [Link video](https://www.youtube.com/watch?v=Rvy6b6vm2iU)
+- [Live Session - Berimbau (Vinicius de Moraes and Baden Powell) - JuanaRosa, 21 April 2017.](https://www.youtube.com/watch?v=UUG2lNxfjpI&t=2s)
 
 ---
 ### [Cursos](/sample_page5.html)
