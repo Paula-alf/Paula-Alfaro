@@ -31,7 +31,7 @@
 ### Awards and scholarships.
 ---
 
-- [Primer lugar IX Concurso de Composición Musical Luis Advis, categoría Música Popular, 2013.](https://luisadvis.cultura.gob.cl/ganadores)
+- [First place in IX Luis Advis Musical Composition Contest, Popular Music category, 2013.](https://luisadvis.cultura.gob.cl/ganadores)
 
 - Postgraduate Student Agreement Program scholarship (PEC–PG) of the National Council for Scientific and Technological Development (CNPq) for master's degree studies, Brazil, 2018 - 2020.
 
