@@ -6,7 +6,7 @@
 
 - [Alfaro, P., Mendes, A. (2020). Utilización de Pure Data y Musescore como herramientas para la educación musical y desenvolvimiento creativo.](https://www.researchgate.net/publication/343774702_Utilizacion_de_Pure_Data_y_Musescore_como_herramientas_para_la_educacion_musical_y_desenvolvimiento_creativo)
 
-**Obs**: The proceedings has been published on the XIII Encontro de Educação Musical da Unicamp, EEMU 2020, Online, 8 - 12 June 2020 [here!](https://sites.google.com/dac.unicamp.br/eemu/anais/2020?authuser=0)
+**Obs**: The proceedings has been published on the XIII Encontro de Educação Musical da Unicamp, EEMU 2020, Online, 8th - 12th June 2020 [here!](https://sites.google.com/dac.unicamp.br/eemu/anais/2020?authuser=0)
 
 - [Alfaro, P., Mendes, A. (2018). Utilização de jogos e TIC na educação musical e suas influências na criatividade.](https://www.researchgate.net/publication/343774857_Utilizacao_de_jogos_e_TIC_na_educacao_musical_e_suas_influencias_na_criatividade)
 
@@ -39,11 +39,11 @@
 ### Music performances.
 ---
 
-- [Live Session - Santiago - JuanaRosa feat Michele Espinoza (Mamma Soul) and Diego Urbano, 23 October 2016.](https://www.youtube.com/watch?v=iyOnEmmdgeM) 
+- [Live Session - Santiago - JuanaRosa feat Michele Espinoza (Mamma Soul) and Diego Urbano, 23th October 2016.](https://www.youtube.com/watch?v=iyOnEmmdgeM) 
 
-- [Video clip - Eco - JuanaRosa, 18 January 2016.](https://www.youtube.com/watch?v=Bvq0-om3bqg)
+- [Video clip - Eco - JuanaRosa, 18th January 2016.](https://www.youtube.com/watch?v=Bvq0-om3bqg)
 
-- [Live Session - Berimbau (Vinicius de Moraes and Baden Powell) - JuanaRosa, 21 April 2017.](https://www.youtube.com/watch?v=UUG2lNxfjpI&t=2s)
+- [Live Session - Berimbau (Vinicius de Moraes and Baden Powell) - JuanaRosa, 21th April 2017.](https://www.youtube.com/watch?v=UUG2lNxfjpI&t=2s)
 
 ---
 ### [Cursos](/sample_page5.html)
