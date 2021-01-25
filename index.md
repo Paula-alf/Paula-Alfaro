@@ -49,7 +49,7 @@
 ### Educational music minigame.
 ---
 
-[<img src="images/Imagen_Juego.png?raw=true" style="width: 30vw; min-width: 150px;" alt="Logo" />](https://gctucci.itch.io/simon-sings){target="_blank"}
+[<img src="images/Imagen_Juego.png?raw=true" style="width: 30vw; min-width: 150px;" alt="Logo" />](https://gctucci.itch.io/simon-sings/  "title" target="_blank")
 
 **Obs**: Minigame developed by Paula Alfaro and Gabriel Natucci, UNICAMP, 2020.
 
