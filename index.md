@@ -46,6 +46,12 @@
 - [Live Session - Berimbau (Vinicius de Moraes and Baden Powell) - JuanaRosa, 21th April 2017.](https://www.youtube.com/watch?v=UUG2lNxfjpI&t=2s)
 
 ---
+### Educational music minigame.
+---
+Minigame developed by Paula Alfaro and Gabriel Natucci, UNICAMP, 2020.
+[<img src="images/juego.png?raw=true" style="width: 30vw; min-width: 150px;" alt="Logo" />](/pdf/Curso_Isidora.pdf)
+
+---
 ### [Cursos](/sample_page5.html)
 ---
 ### [Material](/sample_page6.html)
