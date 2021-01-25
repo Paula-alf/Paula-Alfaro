@@ -10,7 +10,7 @@
 
 - [Alfaro, P., Mendes, A. (2018). Utilização de jogos e TIC na educação musical e suas influências na criatividade.](https://www.researchgate.net/publication/343774857_Utilizacao_de_jogos_e_TIC_na_educacao_musical_e_suas_influencias_na_criatividade)
 
-**Obs**: The proceedings has been published on the XI	Encontro	Regional	Sudeste	da	Associação	Brasileira	de	Educação	Musical, São	Carlos, São Paulo, Brazil, 18 - 20 October 2018 [here!](http://abemeducacaomusical.com.br/conferencias/index.php/sd2018/regsd/paper/viewFile/3230/1774)
+**Obs**: The proceedings has been published on the XI	Encontro	Regional	Sudeste	da	Associação	Brasileira	de	Educação	Musical, São	Carlos, São Paulo, Brazil, 18th - 20th October 2018 [here!](http://abemeducacaomusical.com.br/conferencias/index.php/sd2018/regsd/paper/viewFile/3230/1774)
 
 
 ---
