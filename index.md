@@ -39,13 +39,18 @@
 ### Music performances.
 ---
 
-- [Live Session - Santiago - JuanaRosa feat Michele Espinoza (Mamma Soul) and Diego Urbano, 23th October 2016.](https://www.youtube.com/watch?v=iyOnEmmdgeM) 
+- Live Session - Santiago - JuanaRosa feat Michele Espinoza (Mamma Soul) and Diego Urbano, 23th October 2016.
 
-- [Video clip - Eco - JuanaRosa, 18th January 2016.](https://www.youtube.com/watch?v=Bvq0-om3bqg)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iyOnEmmdgeM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- Video clip - Eco - JuanaRosa, 18th January 2016.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Bvq0-om3bqg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- Live Session - Berimbau (Vinicius de Moraes and Baden Powell) - JuanaRosa, 21th April 2017.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x-rNjgch8P8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-- [Live Session - Berimbau (Vinicius de Moraes and Baden Powell) - JuanaRosa, 21th April 2017.](https://www.youtube.com/watch?v=UUG2lNxfjpI&t=2s)
 
 ---
 ### Educational music minigame.
