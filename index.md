@@ -41,15 +41,15 @@
 
 - **Live Session - Santiago - JuanaRosa feat Michele Espinoza (Mamma Soul) and Diego Urbano**, 23th October 2016.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iyOnEmmdgeM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iyOnEmmdgeM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
 - **Video clip - Eco - JuanaRosa**, 18th January 2016.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Bvq0-om3bqg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Bvq0-om3bqg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
 - **Live Session - Berimbau (Vinicius de Moraes and Baden Powell) - JuanaRosa**, 21th April 2017.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/x-rNjgch8P8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x-rNjgch8P8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
 
 ---
