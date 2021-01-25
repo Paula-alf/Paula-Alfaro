@@ -51,7 +51,7 @@
 
 [<img src="images/Imagen_Juego.png?raw=true" style="width: 30vw; min-width: 150px;" alt="Logo" />](https://gctucci.itch.io/simon-sings)
 
-**Obs**: Minigame developed by Paula Alfaro and Gabriel Natucci, UNICAMP, 2020.
+**Obs**: Minigame developed by Paula Alfaro and Gabriel Natucci, UNICAMP, 2020 [Play here!](https://gctucci.itch.io/simon-sings)
 
 ---
 ### [Cursos](/sample_page5.html)
