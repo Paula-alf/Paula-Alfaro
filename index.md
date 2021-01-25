@@ -23,8 +23,8 @@
 ### Album recording.
 ---
 
-- [Self-titled album JuanaRosa, 2016.](https://open.spotify.com/album/1VhniXD6lELfiDeZhNWL8b?si=VX0VqfjtRTicp5l5BWs0xQ)
-<iframe src="https://open.spotify.com/embed/album/1VhniXD6lELfiDeZhNWL8b" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+- Self-titled album JuanaRosa, 2016.
+<iframe src="https://open.spotify.com/embed/album/1VhniXD6lELfiDeZhNWL8b" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe><br>
 
 - [JuanaRosa's album review by Winston Moya Cortés, 2016.](https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-27902017000100163)
 
