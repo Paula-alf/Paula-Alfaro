@@ -25,7 +25,7 @@
 
 - Self-titled album JuanaRosa, 2016.
 
-<iframe src="https://open.spotify.com/embed/album/1VhniXD6lELfiDeZhNWL8b" width="400" height="480" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe><br>
+<iframe src="https://open.spotify.com/embed/album/1VhniXD6lELfiDeZhNWL8b" width="400" height="450" frameborder="1" allowtransparency="true" allow="encrypted-media"></iframe><br>
 
 - [JuanaRosa's album review by Winston Moya Cortés, 2016.](https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-27902017000100163)
 
