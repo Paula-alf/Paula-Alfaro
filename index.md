@@ -48,8 +48,10 @@
 ---
 ### Educational music minigame.
 ---
-Minigame developed by Paula Alfaro and Gabriel Natucci, UNICAMP, 2020.
-[<img src="images/juego.png?raw=true" style="width: 30vw; min-width: 150px;" alt="Logo" />](/pdf/Curso_Isidora.pdf)
+
+[<img src="images/juego.png?raw=true" style="width: 30vw; min-width: 150px;" alt="Logo" />](https://gctucci.itch.io/simon-sings)
+
+**Obs**: Minigame developed by Paula Alfaro and Gabriel Natucci, UNICAMP, 2020.
 
 ---
 ### [Cursos](/sample_page5.html)
