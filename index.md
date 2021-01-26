@@ -1,7 +1,7 @@
 
 <br>
 
-### Publications.
+### Articles.
 ---
 - <a href="https://www.researchgate.net/publication/344259985_New_perspectives_in_didactic_music_games_Using_synesthetic_resources_in_an_educational_music_minigame" target="_blank">Alfaro, P., Natucci, G., Mendes, A. (2020). New perspectives in didactic music games: Using synesthetic resources in an educational music minigame.</a><br>
 
