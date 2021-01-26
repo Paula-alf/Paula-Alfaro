@@ -62,7 +62,7 @@
 ---
 <a href="https://gctucci.itch.io/simon-sings" target="_blank">Play here!</a>
 
-<p><a href="https://gctucci.itch.io/simon-sings"><img src="images/Imagen_Juego.png?raw=true" style="width: 80vw; min-width: 200px;" height="200" /></a></p>
+<p><a href="https://gctucci.itch.io/simon-sings" target="_blank"><img src="images/Imagen_Juego.png?raw=true" style="width: 80vw; min-width: 200px;" height="200" /></a></p>
 
 <br><br>
 [<img src="images/Imagen_Juego.png?raw=true" style="width: 80vw; min-width: 200px;" height="200" />](https://gctucci.itch.io/simon-sings)
