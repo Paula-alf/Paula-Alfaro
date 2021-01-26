@@ -9,24 +9,23 @@
 
 - <a href="https://www.researchgate.net/publication/343774702_Utilizacion_de_Pure_Data_y_Musescore_como_herramientas_para_la_educacion_musical_y_desenvolvimiento_creativo" target="_blank">Alfaro, P., Mendes, A. (2020). Utilización de Pure Data y Musescore como herramientas para la educación musical y desenvolvimiento creativo..</a><br>
 
-**Obs**: The proceedings has been published on the XIII Encontro de Educação Musical da Unicamp, EEMU 2020, Online, 8th - 12th June 2020 [here!](https://sites.google.com/dac.unicamp.br/eemu/anais/2020?authuser=0)
+**Obs**: The proceedings has been published on the XIII Encontro de Educação Musical da Unicamp, EEMU 2020, Online, 8th - 12th June 2020 <a href="https://sites.google.com/dac.unicamp.br/eemu/anais/2020?authuser=0" target="_blank">here!</a><br>
 
 - <a href="https://www.researchgate.net/publication/343774857_Utilizacao_de_jogos_e_TIC_na_educacao_musical_e_suas_influencias_na_criatividade" target="_blank">Alfaro, P., Mendes, A. (2018). Utilização de jogos e TIC na educação musical e suas influências na criatividade.</a><br>
 
-**Obs**: The proceedings has been published on the XI	Encontro	Regional	Sudeste	da	Associação	Brasileira	de	Educação	Musical, São	Carlos, São Paulo, Brazil, 18th - 20th October 2018 [here!](http://abemeducacaomusical.com.br/conferencias/index.php/sd2018/regsd/paper/viewFile/3230/1774)
-
+**Obs**: The proceedings has been published on the XI	Encontro	Regional	Sudeste	da	Associação	Brasileira	de	Educação	Musical, São	Carlos, São Paulo, Brazil, 18th - 20th October 2018 <a href="http://abemeducacaomusical.com.br/conferencias/index.php/sd2018/regsd/paper/viewFile/3230/1774" target="_blank">here!</a><br>
 
 ---
 ### Master's degree thesis.
 ---
 
-[ALFARO BARRALES, Paula Fernanda. Proposta de jogo musical digital associado ao desenvolvimento criativo para crianças estudantes de piano: Digital music game proposal associated with the creative development for young piano learners. 2020. 1 recurso online (80 p.) Dissertação (mestrado) - Universidade Estadual de Campinas, Instituto de Artes, Campinas, SP](http://repositorio.unicamp.br/jspui/handle/REPOSIP/344240)
+<a href="http://repositorio.unicamp.br/jspui/handle/REPOSIP/344240" target="_blank">ALFARO BARRALES, Paula Fernanda. Proposta de jogo musical digital associado ao desenvolvimento criativo para crianças estudantes de piano: Digital music game proposal associated with the creative development for young piano learners. 2020. 1 recurso online (80 p.) Dissertação (mestrado) - Universidade Estadual de Campinas, Instituto de Artes, Campinas, SP.</a><br>
 
 ---
 ### Awards and scholarships.
 ---
 
-- [First place in IX Luis Advis Musical Composition Contest, Popular Music category, 2013.](https://luisadvis.cultura.gob.cl/ganadores)
+- <a href="https://luisadvis.cultura.gob.cl/ganadores" target="_blank">First place in IX Luis Advis Musical Composition Contest, Popular Music category, 2013.</a><br>
 
 - Postgraduate Student Agreement Program scholarship (PEC–PG) of the National Council for Scientific and Technological Development (CNPq) for master's degree studies, Brazil, 2018 - 2020.
 
@@ -38,7 +37,7 @@
 
 <iframe src="https://open.spotify.com/embed/album/1VhniXD6lELfiDeZhNWL8b" width="400" height="420" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe><br>
 
-- [JuanaRosa's album review by Winston Moya Cortés, 2016.](https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-27902017000100163)
+- <a href="https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-27902017000100163" target="_blank">JuanaRosa's album review by Winston Moya Cortés, Revista musical chilena, vol.71 no.227, Santiago, jun. 2017.</a><br>
 
 ---
 ### Music performances.
