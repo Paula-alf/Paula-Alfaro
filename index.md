@@ -59,8 +59,7 @@
 ### Educational music minigame.
 ---
 
-
-- Minigame developed by Paula Alfaro and Gabriel Natucci, UNICAMP, 2020 <a href="https://gctucci.itch.io/simon-sings" target="_blank">Play here!</a><br>
+- Minigame prototype developed by Paula Alfaro and Gabriel Natucci, UNICAMP, 2020 <a href="https://gctucci.itch.io/simon-sings" target="_blank">Play here!</a><br>
 
 <p><a href="https://gctucci.itch.io/simon-sings" target="_blank"><img src="images/Imagen_Juego.png?raw=true" style="width: 80vw; min-width: 200px;" height="200" /></a></p>
 
