@@ -6,5 +6,4 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://www.researchgate.net/profile/Paula_Alfaro4" target="_blank">View My ResearchGate Profile</a><br>  
   <a href="https://github.com/Paula-alf" target="_blank> My GitHub</a><br>
   Contact: pabarrales@ug.uchile.cl
-
-
+theme: jekyll-theme-minimal
