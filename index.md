@@ -23,6 +23,14 @@
 [ALFARO BARRALES, Paula Fernanda. Proposta de jogo musical digital associado ao desenvolvimento criativo para crianças estudantes de piano: Digital music game proposal associated with the creative development for young piano learners. 2020. 1 recurso online (80 p.) Dissertação (mestrado) - Universidade Estadual de Campinas, Instituto de Artes, Campinas, SP](http://repositorio.unicamp.br/jspui/handle/REPOSIP/344240)
 
 ---
+### Awards and scholarships.
+---
+
+- [First place in IX Luis Advis Musical Composition Contest, Popular Music category, 2013.](https://luisadvis.cultura.gob.cl/ganadores)
+
+- Postgraduate Student Agreement Program scholarship (PEC–PG) of the National Council for Scientific and Technological Development (CNPq) for master's degree studies, Brazil, 2018 - 2020.
+
+---
 ### Album recording.
 ---
 
@@ -31,14 +39,6 @@
 <iframe src="https://open.spotify.com/embed/album/1VhniXD6lELfiDeZhNWL8b" width="400" height="420" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe><br>
 
 - [JuanaRosa's album review by Winston Moya Cortés, 2016.](https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-27902017000100163)
-
----
-### Awards and scholarships.
----
-
-- [First place in IX Luis Advis Musical Composition Contest, Popular Music category, 2013.](https://luisadvis.cultura.gob.cl/ganadores)
-
-- Postgraduate Student Agreement Program scholarship (PEC–PG) of the National Council for Scientific and Technological Development (CNPq) for master's degree studies, Brazil, 2018 - 2020.
 
 ---
 ### Music performances.
@@ -55,7 +55,6 @@
 - **Live Session - Berimbau (Vinicius de Moraes and Baden Powell) - JuanaRosa**, 21th April 2017.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x-rNjgch8P8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-
 
 ---
 ### Educational music minigame.
