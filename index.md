@@ -3,7 +3,7 @@
 ---
 - [Alfaro, P., Natucci, G., Mendes, A. (2020). New perspectives in didactic music games: Using synesthetic resources in an educational music minigame.](https://www.researchgate.net/publication/344259985_New_perspectives_in_didactic_music_games_Using_synesthetic_resources_in_an_educational_music_minigame)
 
-**Obs**: The proceedings has been published on the International Society for Music Education 34th World Conference on Music Education: Online, 3rd -7th August 2020 [here!](https://www.isme.org/sites/default/files/documents/Proceedings%20final%202020%20ISME%20WORLD%20CONFERENCE.pdf)
+**Obs**: The proceedings has been published on the International Society for Music Education 34th World Conference on Music Education: Online, 3rd - 7th August 2020 [here!](https://www.isme.org/sites/default/files/documents/Proceedings%20final%202020%20ISME%20WORLD%20CONFERENCE.pdf)
 
 - [Alfaro, P., Mendes, A. (2020). Utilización de Pure Data y Musescore como herramientas para la educación musical y desenvolvimiento creativo.](https://www.researchgate.net/publication/343774702_Utilizacion_de_Pure_Data_y_Musescore_como_herramientas_para_la_educacion_musical_y_desenvolvimiento_creativo)
 
