@@ -7,7 +7,7 @@
 
 **Obs**: The proceedings has been published on the International Society for Music Education 34th World Conference on Music Education: Online, 3rd - 7th August 2020 [here!](https://www.isme.org/sites/default/files/documents/Proceedings%20final%202020%20ISME%20WORLD%20CONFERENCE.pdf)
 
-- [Alfaro, P., Mendes, A. (2020). Utilización de Pure Data y Musescore como herramientas para la educación musical y desenvolvimiento creativo.](https://www.researchgate.net/publication/343774702_Utilizacion_de_Pure_Data_y_Musescore_como_herramientas_para_la_educacion_musical_y_desenvolvimiento_creativo)
+- <a href="https://www.researchgate.net/publication/343774702_Utilizacion_de_Pure_Data_y_Musescore_como_herramientas_para_la_educacion_musical_y_desenvolvimiento_creativo" target="_blank">Alfaro, P., Mendes, A. (2020). Utilización de Pure Data y Musescore como herramientas para la educación musical y desenvolvimiento creativo..</a><br>
 
 **Obs**: The proceedings has been published on the XIII Encontro de Educação Musical da Unicamp, EEMU 2020, Online, 8th - 12th June 2020 [here!](https://sites.google.com/dac.unicamp.br/eemu/anais/2020?authuser=0)
 
