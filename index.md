@@ -60,6 +60,7 @@
 ---
 ### Educational music minigame.
 ---
+<a href="https://gctucci.itch.io/simon-sings" target="_blank">Hello, world!</a>
 
 [<img src="images/Imagen_Juego.png?raw=true" style="width: 80vw; min-width: 200px;" height="200" />](https://gctucci.itch.io/simon-sings)
 - **Minigame developed by Paula Alfaro and Gabriel Natucci, UNICAMP, 2020 [Play here!](https://gctucci.itch.io/simon-sings)**
