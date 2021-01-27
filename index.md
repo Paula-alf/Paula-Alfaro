@@ -30,7 +30,7 @@
 - Postgraduate Student Agreement Program scholarship (PEC–PG) of the National Council for Scientific and Technological Development (CNPq) for master's degree studies, Brazil, 2018 - 2020.
 
 ---
-### Album recording.
+### Music.
 ---
 
 - Self-titled album JuanaRosa, 2016.
@@ -56,7 +56,7 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x-rNjgch8P8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
 ---
-### Educational music minigame.
+### Education.
 ---
 
 - Minigame prototype developed by Paula Alfaro and Gabriel Natucci, UNICAMP, 2020 <a href="https://gctucci.itch.io/simon-sings" target="_blank">Play here!</a><br>
