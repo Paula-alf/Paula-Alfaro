@@ -40,7 +40,7 @@
 - <a href="https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-27902017000100163" target="_blank">JuanaRosa's album review by Winston Moya Cortés, Revista musical chilena, vol.71 no.227, Santiago, jun. 2017.</a><br>
 
 ---
-### Music.
+### Music performances.
 ---
 
 - **Live Session - Santiago - JuanaRosa feat Michele Espinoza (Mamma Soul) and Diego Urbano**, 23th October 2016.
