@@ -1,7 +1,10 @@
 
 <br>
 
-### Articles.
+## Publications.
+---
+---
+### Papers.
 ---
 - <a href="https://www.researchgate.net/publication/344259985_New_perspectives_in_didactic_music_games_Using_synesthetic_resources_in_an_educational_music_minigame" target="_blank">Alfaro, P., Natucci, G., Mendes, A. (2020). New perspectives in didactic music games: Using synesthetic resources in an educational music minigame.</a><br>
 
@@ -16,13 +19,13 @@
 **Obs**: The proceedings has been published on the XI	Encontro	Regional	Sudeste	da	Associação	Brasileira	de	Educação	Musical, São	Carlos, São Paulo, Brazil, 18th - 20th October 2018 <a href="http://abemeducacaomusical.com.br/conferencias/index.php/sd2018/regsd/paper/viewFile/3230/1774" target="_blank">here!</a><br>
 
 ---
-### Master's degree thesis.
+### Master's Degree Thesis.
 ---
 
 <a href="http://repositorio.unicamp.br/jspui/handle/REPOSIP/344240" target="_blank">ALFARO BARRALES, Paula Fernanda. Proposta de jogo musical digital associado ao desenvolvimento criativo para crianças estudantes de piano: Digital music game proposal associated with the creative development for young piano learners. 2020. 1 recurso online (80 p.) Dissertação (mestrado) - Universidade Estadual de Campinas, Instituto de Artes, Campinas, SP.</a><br>
 
 ---
-### Awards and scholarships.
+## Awards and Scholarships.
 ---
 
 - <a href="https://luisadvis.cultura.gob.cl/ganadores" target="_blank">First place in IX Luis Advis Musical Composition Contest, Popular Music category, 2013.</a><br>
@@ -30,9 +33,11 @@
 - Postgraduate Student Agreement Program scholarship (PEC–PG) of the National Council for Scientific and Technological Development (CNPq) for master's degree studies, Brazil, 2018 - 2020.
 
 ---
-### Music.
+## Music.
 ---
-
+---
+### Album Recording.
+---
 - Self-titled album JuanaRosa, 2016.
 
 <iframe src="https://open.spotify.com/embed/album/1VhniXD6lELfiDeZhNWL8b" width="400" height="420" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe><br>
@@ -40,7 +45,7 @@
 - <a href="https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0716-27902017000100163" target="_blank">JuanaRosa's album review by Winston Moya Cortés, Revista musical chilena, vol.71 no.227, Santiago, jun. 2017.</a><br>
 
 ---
-### Music performances.
+### Music Performances.
 ---
 
 - **Live Session - Santiago - JuanaRosa feat Michele Espinoza (Mamma Soul) and Diego Urbano**, 23th October 2016.
@@ -56,15 +61,17 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x-rNjgch8P8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
 ---
-### Education.
+## Education.
 ---
-
+---
+### Educational Music Minigame.
+---
 - Minigame prototype developed by Paula Alfaro and Gabriel Natucci, UNICAMP, 2020 <a href="https://gctucci.itch.io/simon-sings" target="_blank">Play here!</a><br>
 
 <p><a href="https://gctucci.itch.io/simon-sings" target="_blank"><img src="images/Imagen_Juego.png?raw=true" style="width: 80vw; min-width: 200px;" height="200" /></a></p>
 
 ---
-### [Cursos](/sample_page5.html)
+## [Cursos](/sample_page5.html)
 ---
-### [Material](/sample_page6.html)
+## [Material](/sample_page6.html)
 ---
