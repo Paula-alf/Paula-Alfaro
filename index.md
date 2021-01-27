@@ -74,3 +74,5 @@
 ---
 ## [Material](/sample_page6.html)
 ---
+## [Photos](/sample_page6.html)
+---
