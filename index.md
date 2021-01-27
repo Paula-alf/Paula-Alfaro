@@ -1,6 +1,6 @@
 
+<img src="images/Piano.png?raw=true" style="width: 30vw; min-width: 150px;" alt="Logo" />
 <br>
-
 ## Publications.
 ---
 ### Papers.
