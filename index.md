@@ -1,5 +1,5 @@
 
-<img src="images/Piano.png?raw=true" style="width: 560; min-width: 150px;" height="100" />
+<img src="images/Piano.png?raw=true" style="width: 560; min-width: 150px;" height="150" />
 
 <br>
 ## Publications.
