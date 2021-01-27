@@ -68,11 +68,12 @@
 - Minigame prototype developed by Paula Alfaro and Gabriel Natucci, UNICAMP, 2020 <a href="https://gctucci.itch.io/simon-sings" target="_blank">Play here!</a><br>
 
 <p><a href="https://gctucci.itch.io/simon-sings" target="_blank"><img src="images/Imagen_Juego.png?raw=true" style="width: 80vw; min-width: 200px;" height="200" /></a></p>
+---
+### Classroom
+---
+<img src="images/Piano_1.png?raw=true" style="width: 560; min-width: 150px;" height="100" />
+<br>
 
----
-## [Cursos](/sample_page5.html)
----
-## [Material](/sample_page6.html)
 ---
 ## [Photos](/sample_page6.html)
 ---
