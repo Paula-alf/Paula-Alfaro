@@ -71,7 +71,7 @@
 ---
 ### Classroom
 ---
-<img src="images/Clases_1.png?raw=true" style="width: 560; min-width: 150px;" height="100" />
+<img src="images/Clases_1.png?raw=true" style="width: 560; min-width: 150px;" height="logo" />
 <br>
 
 ---
