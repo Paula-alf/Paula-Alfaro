@@ -71,7 +71,15 @@
 ---
 ### Classroom
 ---
+#### Piano Lessons
+---
 <img src="images/Clases_1.png?raw=true" style="width: 560; min-width: 150px;" height="logo" />
+<br>
+<img src="images/Clases_2.png?raw=true" style="width: 560; min-width: 150px;" height="logo" />
+<br>
+<img src="images/Clases_3.png?raw=true" style="width: 560; min-width: 150px;" height="logo" />
+<br>
+<img src="images/Clases_4.png?raw=true" style="width: 560; min-width: 150px;" height="logo" />
 <br>
 
 ---
