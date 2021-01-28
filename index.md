@@ -73,7 +73,7 @@
 ---
 #### Piano Lessons
 ---
-<img src="images/Clases_1.png?raw=true" style="width: 80vw; min-width: 80px;" height="logo" />
+<img src="images/Clases_1.png?raw=true" alt="logo" width="80"/>
 <img src="images/Clases_2.png?raw=true" style="width: 150; min-width: 150px;" height="logo" />
 <img src="images/Clases_3.png?raw=true" style="width: 150; min-width: 150px;" height="logo" />
 
