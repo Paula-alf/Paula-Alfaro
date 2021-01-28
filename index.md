@@ -68,6 +68,7 @@
 - Minigame prototype developed by Paula Alfaro and Gabriel Natucci, UNICAMP, 2020 <a href="https://gctucci.itch.io/simon-sings" target="_blank">Play here!</a><br>
 
 <p><a href="https://gctucci.itch.io/simon-sings" target="_blank"><img src="images/Imagen_Juego.png?raw=true" style="width: 80vw; min-width: 200px;" height="200" /></a></p>
+
 ---
 ### Classroom
 ---
@@ -76,7 +77,6 @@
 Functional Piano for first-year music bachelor students.
 
 <img src="images/Clases_4.png?raw=true" style="width: 560; min-width: 150px;" height="logo" />
-<br>
 ---
 #### Piano Lessons
 ---
