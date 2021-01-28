@@ -71,16 +71,19 @@
 ---
 ### Classroom
 ---
-#### Piano Lessons
+#### Functional Piano
 ---
-<img src="images/Clases_1.png?raw=true" alt="100" width="100"/>
-<img src="images/Clases_2.png?raw=true" style="width: 150; min-width: 150px;" height="logo" />
-<img src="images/Clases_3.png?raw=true" style="width: 150; min-width: 150px;" height="logo" />
+Functional Piano for first-year music bachelor students.
 
-<br>
 <img src="images/Clases_4.png?raw=true" style="width: 560; min-width: 150px;" height="logo" />
 <br>
-
+---
+#### Piano Lessons
+---
+<img src="images/Clases_1.png?raw=true" style="width: 150; min-width: 150px;" height="logo" />
+<img src="images/Clases_2.png?raw=true" style="width: 150; min-width: 150px;" height="logo" />
+<img src="images/Clases_3.png?raw=true" style="width: 150; min-width: 150px;" height="logo" />
+<br>
 ---
 ## [Photos](/sample_page6.html)
 ---
