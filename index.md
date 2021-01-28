@@ -74,13 +74,14 @@
 ---
 #### Functional Piano
 ---
-Functional Piano for first-year music bachelor students at University of Campinas (UNICAMP), 2018, Brazil.
+- Functional Piano for first-year music bachelor students at University of Campinas (UNICAMP), 2018, Brazil.
 
 <img src="images/Clases_4.png?raw=true" style="width: 560; min-width: 150px;" height="logo" />
 
 ---
 #### Elementary Music Lessons
 ---
+- Music lessons for children proyect open to the community of Campinas, UNICAMP, 2019, Brazil.
 <img src="images/Clases_5.png?raw=true" style="width: 560; min-width: 150px;" height="logo" />
 
 ---
