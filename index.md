@@ -74,7 +74,7 @@
 ---
 #### Functional Piano
 ---
-Functional Piano for first-year music bachelor students.
+Functional Piano for first-year music bachelor students at University of Campinas (UNICAMP).
 
 <img src="images/Clases_4.png?raw=true" style="width: 560; min-width: 150px;" height="logo" />
 ---
