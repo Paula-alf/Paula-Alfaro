@@ -68,6 +68,9 @@
 - Minigame prototype developed by Paula Alfaro and Gabriel Natucci, UNICAMP, 2020 <a href="https://gctucci.itch.io/simon-sings" target="_blank">Play here!</a><br>
 
 <p><a href="https://gctucci.itch.io/simon-sings" target="_blank"><img src="images/Imagen_Juego.png?raw=true" style="width: 80vw; min-width: 200px;" height="200" /></a></p>
+---
+### Sequencer on Pure Data.
+---
 
 ---
 ### Classroom
@@ -81,7 +84,7 @@
 ---
 #### Elementary Music Lessons
 ---
-- Music lessons for children proyect open to the community of Campinas, UNICAMP, 2019, Brazil.
+- "Music lessons for children" project open to the community of Campinas, UNICAMP, 2019, Brazil.
 <img src="images/Clases_5.png?raw=true" style="width: 560; min-width: 150px;" height="logo" />
 
 ---
