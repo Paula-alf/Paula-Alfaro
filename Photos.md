@@ -1,11 +1,3 @@
-</style>
-.hide-navigation-item {
-
-display: none !important;
-
-}
-</style>
-
 ## PHOTOS
 
 <img src="images/Musica_4.jpg?raw=true"/>
