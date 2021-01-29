@@ -102,7 +102,7 @@
 <br>
 
 ---
-## [PHOTOS](/sample_page6.html)
+## [PHOTOS](/sample_page.html)
 
 <a href="/sample_page6.html" target="_blank">PHOTOS.</a><br>
 ---
