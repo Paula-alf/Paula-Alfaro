@@ -104,5 +104,5 @@
 ---
 ## [PHOTOS](/sample_page.html)
 
-<a href="/sample_page6.html" target="_blank">PHOTOS.</a><br>
+<a href="/sample_page6.md" target="_blank">PHOTOS.</a><br>
 ---
