@@ -1,4 +1,4 @@
-<style> #topnav { display: none } </style>
+<style> .topnav { display: none; } </style>
 
 ## PHOTOS
 
