@@ -3,7 +3,7 @@
 <br>
 
 ---
-## Publications.
+## PUBLICATIONS.
 ---
 ### Papers.
 ---
@@ -34,7 +34,7 @@
 - Postgraduate Student Agreement Program scholarship (PEC–PG) of the National Council for Scientific and Technological Development (CNPq) for master's degree studies, Brazil, 2018 - 2020.
 
 ---
-## Music.
+## MUSIC.
 ---
 ### Album Recording.
 ---
@@ -61,7 +61,7 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x-rNjgch8P8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
 ---
-## Education.
+## EDUCATION.
 ---
 ### Educational Music Minigame.
 ---
@@ -100,5 +100,5 @@
 <br>
 
 ---
-## [Photos](/sample_page6.html)
+## [PHOTOS](/sample_page6.html)
 ---
