@@ -71,6 +71,7 @@
 ---
 ### Sequencer on Pure Data.
 ---
+<img src="images/PD_1.png?raw=true" style="width: 560; min-width: 150px;" height="logo" />
 
 ---
 ### Classroom
