@@ -73,7 +73,6 @@
 ---
 <p><a href="images/prueba_3.pd" target="_blank"><img src="images/PD_1.png?raw=true" style="width: 80vw; min-width: 200px;" height="200" /></a></p>
 
-<img src="images/prueba_3.png?raw=true" style="width: 560; min-width: 150px;" height="logo" />
 ---
 ### Classroom
 ---
