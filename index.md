@@ -72,7 +72,7 @@
 ### Sequencer on Pure Data.
 ---
 
-- Pentatonic sequencer, download here!
+- Pentatonic sequencer, download <a href="images/Pentatonic_sequencer.pd" target="_blank">here!</a><br>
 
 <p><a href="images/Pentatonic_sequencer.pd" target="_blank"><img src="images/PD_1.png?raw=true" style="width: 80vw; min-width: 200px;" height="200" /></a></p>
 
