@@ -104,3 +104,5 @@
 ## [PHOTOS](/Photos.md)
 ---
 ## <a href="/Photos.md" target="_blank">PHOTOS.</a><br>
+
+[PHOTOS..](/Photos.md){:target="_blank" rel="noopener"}
