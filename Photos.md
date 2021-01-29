@@ -1,5 +1,5 @@
 </style>
-body.homepage #page-header-wrapper {
+body.homepage #page-topnav-wrapper {
  display: none !important;
 }
 </style>
