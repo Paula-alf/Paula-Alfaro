@@ -8,5 +8,3 @@
 
 <img src="images/Musica_5.jpg?raw=true"/>
 
-
-<img src="images/Foto_piano1.jpg?raw=true"/>
