@@ -1,6 +1,8 @@
 </style>
-body.homepage #page-topnav-wrapper {
- display: none !important;
+.hide-topnav-item {
+
+display: none !important;
+
 }
 </style>
 
