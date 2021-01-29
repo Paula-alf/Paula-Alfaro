@@ -1,4 +1,4 @@
-loadNavbar: false
+<style> #header { display: none } </style>
 
 ## PHOTOS
 
