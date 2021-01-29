@@ -36,9 +36,6 @@
 ---
 ## MUSIC.
 ---
-<img src="images/Foto_musica.png?raw=true" style="width: 560; min-width: 150px;" height="100" />
-<br>
----
 ### Album Recording.
 ---
 - Self-titled album JuanaRosa, 2016.
