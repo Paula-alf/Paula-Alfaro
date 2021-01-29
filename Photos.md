@@ -1,5 +1,5 @@
 </style>
-.hide-topnav-item {
+.hide-navigation-item {
 
 display: none !important;
 
