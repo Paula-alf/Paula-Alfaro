@@ -1,3 +1,5 @@
+HideSidebar = true
+
 ## PHOTOS
 
 <img src="images/Musica_4.jpg?raw=true"/>
