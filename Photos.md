@@ -1,6 +1,9 @@
+</style>
 body.homepage #page-header-wrapper {
  display: none !important;
 }
+</style>
+
 ## PHOTOS
 
 <img src="images/Musica_4.jpg?raw=true"/>
