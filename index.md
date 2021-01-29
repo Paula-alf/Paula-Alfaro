@@ -101,5 +101,5 @@
 <img src="images/Clases_3.png?raw=true" style="width: 150; min-width: 150px;" height="logo" />
 
 ---
-## [PHOTOS](/Photos.md)
+## [PHOTOS](/Photos.md){target="_blank"}
 ---
