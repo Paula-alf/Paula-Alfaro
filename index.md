@@ -60,6 +60,10 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x-rNjgch8P8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
+- **Participation in the "Orquestra de pandeiros Tum tá que tá" conducted by professor Clarice Magalhães**, 12th February 2021. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3y2E_lkYnwM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ---
 ## EDUCATION.
 ---
