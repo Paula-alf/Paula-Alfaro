@@ -98,6 +98,12 @@
 ---
 #### Piano Lessons
 ---
+- Private piano lessons online, 2021. 
+
+<img src="images/Clases de piano (1).png?raw=true" style="width: 150; min-width: 150px;" height="logo" />
+<img src="images/Clasesonline1.jpeg?raw=true" style="width: 150; min-width: 150px;" height="logo" />
+<img src="images/Clasesonline2.jpeg?raw=true" style="width: 150; min-width: 150px;" height="logo" />
+
 - Private piano lessons in Santiago, 2010 - 2017, Chile. 
 
 <img src="images/Clases_1.png?raw=true" style="width: 150; min-width: 150px;" height="logo" />
